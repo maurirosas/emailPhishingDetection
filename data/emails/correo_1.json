@@ -1,0 +1,5 @@
+{
+    "title": "Verify Your Bank Account",
+    "text": "Dear user,\n\nWe have detected suspicious activity in your bank account. Please verify your information to keep your account secure.\n\nClick the link below to verify: http://192.168.0.1/login.php?username=admin123&password=p@ssw0rd!secure\n\nThank you,\nBank Support Team",
+    "url": "http://192.168.0.1/login.php?username=admin123&password=p@ssw0rd!secure"
+}

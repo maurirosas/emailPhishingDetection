@@ -1,0 +1,5 @@
+{
+    "title": "Action Required: Pending Invoice",
+    "text": "Dear customer,\n\nWe attempted to process your last invoice, but there was an issue. Please make the payment using the secure link below:\n\nhttps://invoice-payment-secure4567.biz/payment\n\nBest regards,\nBilling Department",
+    "url": "https://invoice-payment-secure4567.biz/payment"
+}

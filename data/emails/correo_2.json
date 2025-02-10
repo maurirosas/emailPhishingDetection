@@ -1,0 +1,5 @@
+{
+    "title": "Your PayPal Account Has Been Limited",
+    "text": "Hello,\n\nYour PayPal account has been temporarily restricted due to unusual activity. Restore access by verifying your information here:\n\nhttp://paypal-secure-login1234.net/account/verify\n\nFailure to act within 24 hours will result in account suspension.\n\nPayPal Support Team",
+    "url": "http://paypal-secure-login1234.net/account/verify"
+}

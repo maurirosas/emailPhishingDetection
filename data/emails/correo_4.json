@@ -1,0 +1,5 @@
+{
+    "title": "Your Monthly Invoice Is Ready",
+    "text": "Dear customer,\n\nYour invoice for January is now available for review. Please log in to your account to view the details:\n\nhttps://mybusiness.com/client/invoice\n\nThank you for choosing our services.\n\nCustomer Support Team",
+    "url": "https://mybusiness.com/client/invoice"
+}
